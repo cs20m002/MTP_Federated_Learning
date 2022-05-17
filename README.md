@@ -1,2 +1,3 @@
-##Titile
-## To study and understand the behaviour of Federated Learning using GMMs
+## Title 
+To study and understand the behaviour of Federated Learning using GMMs
+
