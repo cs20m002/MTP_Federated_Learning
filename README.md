@@ -21,3 +21,11 @@ To study and understand the behaviour of Federated Learning using GMMs
 
 ## Future scope
 
+## Resources
+  ## Blogs
+  1. https://ai.googleblog.com/2017/04/federated-learning-collaborative.html
+  2. https://www.tensorflow.org/tutorials
+  
+  ## Papers
+  1. https://arxiv.org/pdf/1602.05629.pdf
+
