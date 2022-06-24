@@ -1,5 +1,5 @@
 ## Title 
-An implementation of the one-shot learning using GMM for generation of proxy-data according to federated learning paradigm 
+Federated learning for multi-class classification based on proxy data and GMMs.
 
 ## Introduction
 With an increase in phones and gadgets as the primary computing devices in daily activity
